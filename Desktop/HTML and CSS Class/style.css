@@ -1,0 +1,61 @@
+body{
+background-image: url("71611.JPG");
+height: auto;
+widows: auto;
+background-repeat: no-repeat;
+}
+p{
+	color:red;
+	font-size: 80px;
+	background: #blue;
+	font-style: italic;
+	font-family: Arial;
+	font-weight: italic;
+	font-variant: small-caps;
+	text-align-last: center;
+	text-shadow: 10px 3px 8px yellow;
+
+}
+.class1{
+	font-size: 120px;
+	color:purple;
+	border-color: blue;
+	font-style:bold;
+	font-size: 100px
+	background-image:71611.JPG;
+	 text-align: center;
+	 text-shadow: 8px 6px 16px yellow;
+}
+#id1
+{
+	font-size: 80px
+	color: pink;
+	font-style: bold;
+
+}
+.serif{
+font-family: "Times New Roman" 'Times', 'Arial'
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
